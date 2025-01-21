@@ -1,0 +1,1 @@
+This repository contains a Python program that calculates the factorial of a number using recursion. However, the program has a bug: it raises a RecursionError for large input values.  The bugSolution.py file provides a corrected version that uses iteration to avoid the recursion depth limit.
